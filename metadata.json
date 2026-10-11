@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Expert — Помощник монтажника",
+  "description": "Карманный помощник сервис-инженера и монтажника ШПД: анализ Wi-Fi эфира, спидтест (Яндекс, 2ip), роутер-менеджер и отчет по заявке.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
